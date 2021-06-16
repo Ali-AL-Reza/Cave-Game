@@ -20,6 +20,7 @@ public class Display {
 		
 		createDisplay();
 	}
+	/// for window display 
 	
 	private void createDisplay(){
 		frame = new JFrame(title);
